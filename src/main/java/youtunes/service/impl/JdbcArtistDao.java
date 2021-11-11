@@ -138,8 +138,6 @@ public class JdbcArtistDao implements ArtistDao {
 				System.out.println("Could not update artist: " + ex.getMessage());
 			}
 		}
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
